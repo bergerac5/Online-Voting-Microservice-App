@@ -33,7 +33,7 @@
 	</properties>
 	  <modules>
         <module>eureka-server</module>
-        <module>api-getway</module>
+        <module>api-gateway</module>
     </modules>
 
 	<dependencies>
